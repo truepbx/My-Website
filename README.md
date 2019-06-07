@@ -1,2 +1,3 @@
-# My-Website
-Creating a website - store on GITHUB
+# My Website
+
+The start of something new.
